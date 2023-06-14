@@ -1,0 +1,28 @@
+
+footer {
+  background-color: #1f204c;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+
+
+.navbar {
+  background-image:linear-gradient(to right, #000328, #00458e);
+}
+
+.icons-container img {
+	width: 70px;
+	margin-right: 0.625rem;
+	margin-bottom: 0.75rem;
+}
+
+
+.card-img-top {
+  border-radius: 20px;
+}
+
+.img-fluid {
+  border-radius: 20px;
+}
